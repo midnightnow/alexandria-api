@@ -1,0 +1,282 @@
+{
+  "10.1038/nature12373": {
+    "doi": "10.1038/nature12373",
+    "score": 0.947,
+    "validations": 14,
+    "disputes": 1,
+    "threads": 7,
+    "status": "validated",
+    "trend": "stable",
+    "last_updated": "2025-01-15T09:30:00Z",
+    "metadata": {
+      "fields": ["neuroscience", "artificial-intelligence"],
+      "confidence": 0.92
+    }
+  },
+  "10.1126/science.abc7894": {
+    "doi": "10.1126/science.abc7894",
+    "score": 0.892,
+    "validations": 22,
+    "disputes": 3,
+    "threads": 12,
+    "status": "discussion",
+    "trend": "rising",
+    "last_updated": "2025-01-20T14:22:00Z",
+    "metadata": {
+      "fields": ["climate-science", "oceanography"],
+      "confidence": 0.88
+    }
+  },
+  "10.1016/j.cell.2024.12.345": {
+    "doi": "10.1016/j.cell.2024.12.345",
+    "score": 0.723,
+    "validations": 8,
+    "disputes": 4,
+    "threads": 15,
+    "status": "disputed",
+    "trend": "falling",
+    "last_updated": "2025-01-18T11:45:00Z",
+    "metadata": {
+      "fields": ["molecular-biology", "genetics"],
+      "confidence": 0.71
+    }
+  },
+  "10.1038/s41586-024-07123": {
+    "doi": "10.1038/s41586-024-07123",
+    "score": 0.956,
+    "validations": 31,
+    "disputes": 0,
+    "threads": 8,
+    "status": "validated",
+    "trend": "stable",
+    "last_updated": "2025-01-22T08:15:00Z",
+    "metadata": {
+      "fields": ["physics", "quantum-computing"],
+      "confidence": 0.94
+    }
+  },
+  "10.1371/journal.pone.0298765": {
+    "doi": "10.1371/journal.pone.0298765",
+    "score": 0.812,
+    "validations": 5,
+    "disputes": 1,
+    "threads": 3,
+    "status": "validated",
+    "trend": "stable",
+    "last_updated": "2025-01-10T16:30:00Z",
+    "metadata": {
+      "fields": ["public-health", "epidemiology"],
+      "confidence": 0.79
+    }
+  },
+  "10.1093/brain/awae234": {
+    "doi": "10.1093/brain/awae234",
+    "score": 0.903,
+    "validations": 17,
+    "disputes": 2,
+    "threads": 9,
+    "status": "discussion",
+    "trend": "rising",
+    "last_updated": "2025-01-19T10:20:00Z",
+    "metadata": {
+      "fields": ["neurology", "alzheimers"],
+      "confidence": 0.87
+    }
+  },
+  "10.1056/NEJMoa2401234": {
+    "doi": "10.1056/NEJMoa2401234",
+    "score": 0.978,
+    "validations": 42,
+    "disputes": 0,
+    "threads": 4,
+    "status": "validated",
+    "trend": "stable",
+    "last_updated": "2025-01-25T09:00:00Z",
+    "metadata": {
+      "fields": ["clinical-trials", "cardiology"],
+      "confidence": 0.96
+    }
+  },
+  "10.1016/S0140-6736(24)00234-5": {
+    "doi": "10.1016/S0140-6736(24)00234-5",
+    "score": 0.865,
+    "validations": 28,
+    "disputes": 3,
+    "threads": 11,
+    "status": "discussion",
+    "trend": "stable",
+    "last_updated": "2025-01-14T13:45:00Z",
+    "metadata": {
+      "fields": ["global-health", "infectious-disease"],
+      "confidence": 0.84
+    }
+  },
+  "10.1002/anie.202412345": {
+    "doi": "10.1002/anie.202412345",
+    "score": 0.791,
+    "validations": 6,
+    "disputes": 1,
+    "threads": 2,
+    "status": "validated",
+    "trend": "rising",
+    "last_updated": "2025-01-08T15:22:00Z",
+    "metadata": {
+      "fields": ["chemistry", "materials-science"],
+      "confidence": 0.76
+    }
+  },
+  "10.1145/3627234.3627456": {
+    "doi": "10.1145/3627234.3627456",
+    "score": 0.834,
+    "validations": 11,
+    "disputes": 2,
+    "threads": 6,
+    "status": "discussion",
+    "trend": "stable",
+    "last_updated": "2025-01-17T14:10:00Z",
+    "metadata": {
+      "fields": ["computer-science", "machine-learning"],
+      "confidence": 0.81
+    }
+  },
+  "arXiv:2412.15847": {
+    "doi": "arXiv:2412.15847",
+    "score": 0.684,
+    "validations": 12,
+    "disputes": 5,
+    "threads": 18,
+    "status": "disputed",
+    "trend": "falling",
+    "last_updated": "2025-01-23T11:30:00Z",
+    "metadata": {
+      "fields": ["artificial-intelligence", "llm"],
+      "confidence": 0.65
+    }
+  },
+  "arXiv:2501.08234": {
+    "doi": "arXiv:2501.08234",
+    "score": 0.912,
+    "validations": 7,
+    "disputes": 0,
+    "threads": 4,
+    "status": "validated",
+    "trend": "rising",
+    "last_updated": "2025-01-21T09:15:00Z",
+    "metadata": {
+      "fields": ["theoretical-physics", "cosmology"],
+      "confidence": 0.89
+    }
+  },
+  "10.1038/s41467-024-45678": {
+    "doi": "10.1038/s41467-024-45678",
+    "score": 0.876,
+    "validations": 15,
+    "disputes": 1,
+    "threads": 5,
+    "status": "validated",
+    "trend": "stable",
+    "last_updated": "2025-01-16T12:00:00Z",
+    "metadata": {
+      "fields": ["ecology", "conservation"],
+      "confidence": 0.85
+    }
+  },
+  "10.1073/pnas.2412345121": {
+    "doi": "10.1073/pnas.2412345121",
+    "score": 0.798,
+    "validations": 9,
+    "disputes": 3,
+    "threads": 10,
+    "status": "discussion",
+    "trend": "falling",
+    "last_updated": "2025-01-13T16:45:00Z",
+    "metadata": {
+      "fields": ["social-sciences", "psychology"],
+      "confidence": 0.77
+    }
+  },
+  "10.1021/jacs.4c12345": {
+    "doi": "10.1021/jacs.4c12345",
+    "score": 0.923,
+    "validations": 19,
+    "disputes": 0,
+    "threads": 3,
+    "status": "validated",
+    "trend": "stable",
+    "last_updated": "2025-01-11T10:30:00Z",
+    "metadata": {
+      "fields": ["organic-chemistry", "synthesis"],
+      "confidence": 0.91
+    }
+  },
+  "10.1109/TPAMI.2024.3456789": {
+    "doi": "10.1109/TPAMI.2024.3456789",
+    "score": 0.857,
+    "validations": 13,
+    "disputes": 2,
+    "threads": 7,
+    "status": "discussion",
+    "trend": "stable",
+    "last_updated": "2025-01-24T08:20:00Z",
+    "metadata": {
+      "fields": ["computer-vision", "deep-learning"],
+      "confidence": 0.83
+    }
+  },
+  "10.1016/j.neuron.2024.11.234": {
+    "doi": "10.1016/j.neuron.2024.11.234",
+    "score": 0.945,
+    "validations": 26,
+    "disputes": 1,
+    "threads": 8,
+    "status": "validated",
+    "trend": "rising",
+    "last_updated": "2025-01-09T14:50:00Z",
+    "metadata": {
+      "fields": ["neuroscience", "synaptic-plasticity"],
+      "confidence": 0.92
+    }
+  },
+  "10.1186/s13059-024-03234": {
+    "doi": "10.1186/s13059-024-03234",
+    "score": 0.812,
+    "validations": 4,
+    "disputes": 0,
+    "threads": 2,
+    "status": "validated",
+    "trend": "stable",
+    "last_updated": "2025-01-07T11:15:00Z",
+    "metadata": {
+      "fields": ["genomics", "bioinformatics"],
+      "confidence": 0.79
+    }
+  },
+  "10.1088/1361-6633/ac7234": {
+    "doi": "10.1088/1361-6633/ac7234",
+    "score": 0.967,
+    "validations": 38,
+    "disputes": 0,
+    "threads": 5,
+    "status": "validated",
+    "trend": "stable",
+    "last_updated": "2025-01-26T09:45:00Z",
+    "metadata": {
+      "fields": ["condensed-matter", "superconductivity"],
+      "confidence": 0.95
+    }
+  },
+  "10.1111/brv.13045": {
+    "doi": "10.1111/brv.13045",
+    "score": 0.754,
+    "validations": 10,
+    "disputes": 4,
+    "threads": 14,
+    "status": "disputed",
+    "trend": "falling",
+    "last_updated": "2025-01-12T15:30:00Z",
+    "metadata": {
+      "fields": ["evolutionary-biology", "phylogenetics"],
+      "confidence": 0.72
+    }
+  }
+}
